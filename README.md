@@ -1,2 +1,2 @@
-# Natural-Gas-Price-Interpolation-Forecasting
+# Natural Gas Price Interpolation Forecasting
 Advanced Quantitative Research Project
